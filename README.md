@@ -1,4 +1,4 @@
-# IlluminaHumanMethylationEPICv2manifest
+# Workaround to make EPICv2 array compatible with minfi package
 
 ## Install from GitHub or from .tar.gz
 
