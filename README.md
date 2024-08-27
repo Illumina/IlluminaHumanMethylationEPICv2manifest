@@ -1,4 +1,4 @@
-# package for EPICv2 array and minfi compatibility
+#  package for EPICv2 Infinium DNA Methylation array and minfi compatibility
 
 ## Install from GitHub or from .tar.gz
 
