@@ -1,4 +1,4 @@
-# Workaround to make EPICv2 array compatible with minfi package
+# package for EPICv2 array and minfi compatibility
 
 ## Install from GitHub or from .tar.gz
 
